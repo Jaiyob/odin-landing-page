@@ -11,6 +11,7 @@ body {
     color: white;
     display: flex;
     justify-content: space-around;
+    padding: 20px;
 }
 
 .logo {
@@ -34,6 +35,10 @@ a {
 
 .title-area {
     display: flex;
+}
+
+.left-space {
+    padding: 20px;
 }
 
 .container-three {
