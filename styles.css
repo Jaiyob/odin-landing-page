@@ -1,15 +1,29 @@
+.header {
+    color: white;
+}
 .container-one {
     background-color: #1f2937;
+    color: white;
 }
 
 .container-three {
     background-color: #e5e7eb;
 }
 
+.container-four{
+    color: white;
+}
+
 .footer {
     background-color: #1f2937;
+    color: white;
 }
 
 button, .container-four {
     background-color: #3882f6;
+}
+
+button {
+    background-color: #3882f6;
+    color: white;
 }
