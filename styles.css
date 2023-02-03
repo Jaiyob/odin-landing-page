@@ -91,6 +91,9 @@ a {
 .footer {
     background-color: #1f2937;
     color: white;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
 }
 
 button, .container-four {
