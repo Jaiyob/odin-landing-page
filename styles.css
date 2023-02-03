@@ -82,6 +82,20 @@ a {
 
 .container-three {
     background-color: #e5e7eb;
+    text-align: center;
+    padding: 10px 25%;
+    text-align: justify;
+}
+
+.quote-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+}
+
+.quoted {
+    text-align: end;
+    font-weight: bold;
 }
 
 .container-four {
