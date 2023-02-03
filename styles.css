@@ -88,6 +88,10 @@ a {
     color: white;
 }
 
+.container-four {
+    margin: 50px;
+}
+
 .footer {
     background-color: #1f2937;
     color: white;
@@ -96,7 +100,7 @@ a {
     padding: 25px;
 }
 
-button, .container-four {
+button, .inner-space {
     background-color: #3882f6;
 }
 
