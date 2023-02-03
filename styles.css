@@ -91,12 +91,15 @@ a {
 .inner-space {
     color: white;
     background-color: #3882f6;
+    padding: 20px 100px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
+    border-radius: 5px;
 }
 
 .fourth-title {
+    font-weight: bolder;
 }
 
 .inner-space button {
