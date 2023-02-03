@@ -84,20 +84,18 @@ a {
     background-color: #e5e7eb;
 }
 
-.container-four{
-    color: white;
-}
-
 .container-four {
-    margin: 50px;
+    margin: 50px 200px;
 }
 
-.footer {
-    background-color: #1f2937;
+.inner-space{
     color: white;
     display: flex;
-    justify-content: center;
-    padding: 25px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.fourth-title {
 }
 
 button, .inner-space {
@@ -107,4 +105,12 @@ button, .inner-space {
 button {
     background-color: #3882f6;
     color: white;
+}
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
 }
