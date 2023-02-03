@@ -56,6 +56,30 @@ a {
     color: #e5e7eb;
 }
 
+.container-two {
+    padding: 20px 20%;
+}
+
+.second-title {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.illustration-area {
+    display: flex;
+    justify-content: space-around;
+}
+
+.illustrations {
+    display: flex;
+    flex-direction: column;
+}
+
+.illustration-area img {
+    border-radius: 50%;
+}
+
 .container-three {
     background-color: #e5e7eb;
 }
