@@ -88,8 +88,9 @@ a {
     margin: 50px 200px;
 }
 
-.inner-space{
+.inner-space {
     color: white;
+    background-color: #3882f6;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -98,13 +99,19 @@ a {
 .fourth-title {
 }
 
-button, .inner-space {
-    background-color: #3882f6;
+.inner-space button {
+    border: solid;
+    border-width: 1px;
 }
 
 button {
     background-color: #3882f6;
     color: white;
+    font-weight: bold;
+    border-radius: 5%;
+    padding: 5px 25px;
+    border: 0;
+    border-radius: 5px;
 }
 
 .footer {
