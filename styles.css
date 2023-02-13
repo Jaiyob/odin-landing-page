@@ -77,7 +77,11 @@ a {
 }
 
 .illustration-area img {
-    border-radius: 50%;
+    border-radius: 10%;
+    border-color: #3882f6;
+    border-style: solid;
+    width: 150px;
+    height: 150px;
 }
 
 .container-three {
