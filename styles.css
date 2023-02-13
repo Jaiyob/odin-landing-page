@@ -69,11 +69,7 @@ a {
 .illustration-area {
     display: flex;
     justify-content: space-around;
-}
-
-.illustrations {
-    display: flex;
-    flex-direction: column;
+    text-align: center;
 }
 
 .illustration-area img {
