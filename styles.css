@@ -48,8 +48,12 @@ a {
 
 .title-area img {
     display: block;
-    width: 500px;
+    width: 800px;
     height: 250px;
+    background-color: rgba(255, 255, 255, .3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .left-space {
