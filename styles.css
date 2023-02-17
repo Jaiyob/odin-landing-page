@@ -20,7 +20,7 @@ body {
     color: white;
     display: flex;
     justify-content: space-between;
-    padding: 20px 10%;
+    padding: 20px 15%;
 }
 
 .logo {
@@ -44,21 +44,22 @@ a {
 
 .title-area {
     display: flex;
+    justify-content: space-between;
+    padding: 50px 15%;
 }
 
 .title-area img {
     display: block;
-    width: 800px;
-    height: 250px;
     background-color: rgba(255, 255, 255, .3);
     display: flex;
     justify-content: center;
     align-items: center;
+    width: 600px;
 }
 
 .left-space {
-    padding: 0 10%;
     margin: 3% 0;
+    width: 600px;
 }
 
 .top-title {
