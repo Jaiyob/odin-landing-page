@@ -125,6 +125,7 @@ a {
 .container-four {
     margin: 50px 200px;
     height: 100%;
+    flex: 1;
 }
 
 .inner-space {
